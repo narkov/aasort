@@ -1,7 +1,7 @@
  ----------------------------------------------------------------------
  Associative Array Ordering Class
  Voznyak Nazar (freelancer), 2005
- narko@mail.lviv.ua
+ narkov@yahoo.com
  ----------------------------------------------------------------------
  LICENSE
  This program is free software; you can redistribute it and/or
